@@ -1,2 +1,2 @@
 # PlayC-
-My work on C and C++
+Solution to problems on SPOJ,Codechef etc. 
